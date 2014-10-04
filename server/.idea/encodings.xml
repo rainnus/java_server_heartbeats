@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/seu/server/DataBase.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/Handle.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/ServerControl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/SocketManage/CheckThread.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/SocketManage/ClientTask.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/SocketManage/InitSocket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/SocketManage/MySocket.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/SocketManage/SocketEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/SocketManage/SocketKeep.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/StringCheck.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/Task.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/ThreadPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/seu/server/UserHandle.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
+
